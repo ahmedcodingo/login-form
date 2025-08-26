@@ -87,22 +87,22 @@ input {
 }
 
 
-@media (width: 380px) {
+@media (width: 360px) {
     header a {
-        margin-left: 0.8rem;
+        margin-left: 0.6rem;
         color: azure;
 
     }
 
     header a:hover {
-        margin-left: 0.8rem;
+        margin-left: 0.6rem;
         color: azure;
         background-color: rgba(255, 0, 0, 0.504);
     }
 
     button {
     padding: 0.6px;
-    margin-left: 7rem;
+    margin-left: 5rem;
     background-color: black;
     border: 1px solid #fff;
     color: #fff;
@@ -117,7 +117,7 @@ input {
     width: 45vh;
 }
 
-
+ 
     button {
     padding: 0.6px;
     margin-left: 4rem;
@@ -129,6 +129,9 @@ input {
 
 
 }
+
+
+
 
 
 
