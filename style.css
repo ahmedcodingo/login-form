@@ -129,8 +129,11 @@ input {
  header {
       box-shadow: 2px 5px 7px 10px red;
  }
-
+.login_form {
+        box-shadow: 2px 5px 7px 10px red;
 }
+}
+
 
 
 
