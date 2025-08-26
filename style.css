@@ -62,7 +62,7 @@ input {
     border: none;
 }
 
-@media (width: 480px) {
+@media (min-width: 480px) {
     header a {
         margin-left: 2rem;
         color: azure;
@@ -87,7 +87,7 @@ input {
 }
 
 
-@media (width: 360px) {
+@media (min-width: 360px) {
     header a {
         margin-left: 0.4rem;
         color: azure;
@@ -133,6 +133,7 @@ input {
         box-shadow: 2px 5px 7px 10px red;
 }
 }
+
 
 
 
