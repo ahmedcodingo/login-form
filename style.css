@@ -234,7 +234,7 @@ input {
 
 }
 
-@media  (max-width:320px) {
+@media  (max-width:330px) {
     header a {
     margin-left: 12px;
     color: azure;
@@ -261,4 +261,5 @@ button {
     color: #fff;
     width: 150px;
 }
+
 }
