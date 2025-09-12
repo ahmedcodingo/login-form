@@ -1,0 +1,264 @@
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: black;
+    padding: 3vh;
+    box-shadow: 1px 1px 3px 2px red;
+}
+
+header a {
+    margin-left: 10rem;
+    color: azure;
+
+}
+
+header a:hover {
+    margin-left: 10rem;
+    color: azure;
+    background-color: rgba(255, 0, 0, 0.504);
+}
+
+body {
+    background-color: black;
+}
+
+
+
+@media (max-width:780px) {
+    header a {
+    margin-left: 5.5rem;
+    color: azure;
+
+}
+
+.login_form {
+    margin: 100px auto;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 60vh;
+    box-shadow: 1px 1px 3px 2px red;
+    width: 60vh;
+}
+
+button {
+     display: flex;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border: 1px solid #fff;
+    color: #fff;
+    width: 150px
+}
+}
+
+
+
+
+
+
+
+
+.login_form {
+    margin: 100px auto;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 60vh;
+    box-shadow: 3px 3px 3px 10px red;
+    width: 60vh;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+    padding-top: 2rem;
+}
+
+button {
+    padding: 0.6px;
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border: 1px solid #fff;
+    color: #fff;
+    width: 150px;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:602px) {
+    header a {
+    margin-left: 3rem;
+    color: azure;
+
+}
+
+.login_form {
+    margin: 100px auto;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 60vh;
+    box-shadow: 1px 1px 3px 2px red;
+    width: 60vh;
+}
+
+button {
+     display: flex;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border: 1px solid #fff;
+    color: #fff;
+    width: 150px
+}
+}
+
+
+
+@media  (max-width:480px) {
+    header a {
+    margin-left: 40px;
+    color: azure;
+
+}
+
+.login_form {
+    margin: 100px auto;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 60vh;
+    box-shadow: 0.5px 0.5px 0.5px 5px red;
+    width: 40vh;
+}
+
+button {
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border: 1px solid #fff;
+    color: #fff;
+    width: 150px
+}
+}
+
+
+
+@media  (max-width:443px) {
+    header a {
+    margin-left: 35px;
+    color: azure;
+
+}
+
+.login_form {
+    margin: 100px auto;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 60vh;
+    box-shadow: 0.5px 0.5px 0.5px 4px red;
+    width: 40vh;
+}
+
+button {
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border: 1px solid #fff;
+    color: #fff;
+    width: 150px
+}
+}
+
+
+
+@media  (max-width: 360px) {
+    header a {
+    margin-left:20px;
+    color: azure;
+
+}
+
+.login_form {
+    margin: 100px auto;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 60vh;
+    box-shadow: 1px 1px 3px 2px red;
+    width: 50vh;
+}
+
+button {
+    padding: 0.6px;
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border: 1px solid #fff;
+    color: #fff;
+    width: 150px;
+}
+}
+
+input {
+    display: flex;
+    margin-top: 0.8rem;
+    justify-self: center;
+    background-color: black;
+    color: #fff;
+    padding: 0.6rem;
+    outline-color: red;
+    border: none;
+
+}
+
+@media  (max-width:320px) {
+    header a {
+    margin-left: 12px;
+    color: azure;
+
+}
+
+.login_form {
+    margin: 100px auto;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 60vh;
+    box-shadow: 0.1px 0.1px 0.1px 1px red;
+    width: 40vh;
+}
+
+button {
+    padding: 0.6px;
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border: 1px solid #fff;
+    color: #fff;
+    width: 150px;
+}
+}
